@@ -1,0 +1,16 @@
+{
+  "name": "kubernetes-training",
+  "version": "0.0.0",
+  "description": "Seif Rajhi's Kubernetes Training",
+  "repository": "git@github.com:seifrajhi/Kubernetes-Training.git",
+  "author": "Seif Rajhi",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "prettier": "^2.0.5"
+  },
+  "scripts": {
+    "prettier-check": "prettier --check .",
+    "prettier-write": "prettier --write ."
+  }
+}
